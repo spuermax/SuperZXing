@@ -5,6 +5,7 @@ ZXing 二维码扫面使用demo 。
 #### step 1：项目的build.gradle添加依赖
 
 '''
+
 buildscript {
     repositories {
         google()
@@ -29,6 +30,7 @@ allprojects {
 
     }
 }
+
 '''
 
 
