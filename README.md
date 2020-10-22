@@ -32,5 +32,16 @@ allprojects {
 
 ```
 
+  #### step 2：app的build.gradle添加依赖
+
+```
+ dependencies {
+            ...
+       implementation 'com.github.spuermax:SuperZXing:v1.0'
+        }   
+
+```
+
+
 
 
